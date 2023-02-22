@@ -14,6 +14,7 @@
 - [ESM][esm]
 - [ESLint][eslint] with some initial rules recommendation
 - [Jest][jest] for fast unit testing and code coverage
+- [Jest-playback][jest-playback] streamlines the recording and replaying of HTTP requests with [Nock][nock]
 - Type definitions for Node.js and Jest
 - [Prettier][prettier] to enforce consistent code style
 - NPM [scripts](#available-scripts) for common operations
@@ -98,6 +99,8 @@ Licensed under the APLv2. See the [LICENSE](https://github.com/jsynowiec/node-ty
 [sponsor-badge]: https://img.shields.io/badge/♥-Sponsor-fc0fb5.svg
 [sponsor]: https://github.com/sponsors/jsynowiec
 [jest]: https://facebook.github.io/jest/
+[jest-playback]: https://github.com/ikatyang/jest-playback
+[nock]: https://github.com/nock/nock
 [eslint]: https://github.com/eslint/eslint
 [wiki-js-tests]: https://github.com/jsynowiec/node-typescript-boilerplate/wiki/Unit-tests-in-plain-JavaScript
 [prettier]: https://prettier.io
